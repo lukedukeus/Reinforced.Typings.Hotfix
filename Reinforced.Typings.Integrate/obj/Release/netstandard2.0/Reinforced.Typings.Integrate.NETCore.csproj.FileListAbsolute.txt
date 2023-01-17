@@ -1,0 +1,8 @@
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\bin\Release\netstandard2.0\Reinforced.Typings.Integrate.deps.json
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\bin\Release\netstandard2.0\Reinforced.Typings.Integrate.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\obj\Release\netstandard2.0\Reinforced.Typings.Integrate.NETCore.csproj.AssemblyReference.cache
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\obj\Release\netstandard2.0\Reinforced.Typings.Integrate.NETCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\obj\Release\netstandard2.0\Reinforced.Typings.Integrate.NETCore.AssemblyInfoInputs.cache
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\obj\Release\netstandard2.0\Reinforced.Typings.Integrate.NETCore.AssemblyInfo.cs
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\obj\Release\netstandard2.0\Reinforced.Typings.Integrate.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings.Integrate\obj\Release\netstandard2.0\Reinforced.Typings.Integrate.dll

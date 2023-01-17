@@ -1,0 +1,7 @@
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\tools\net6.0\rtcli.exe
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\tools\net6.0\app.config
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\tools\net6.0\rtcli.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\tools\net6.0\rtcli.deps.json
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\tools\net6.0\rtcli.runtimeconfig.json
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\tools\net6.0\rtcli.dll.config
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\tools\net6.0\Reinforced.Typings.dll

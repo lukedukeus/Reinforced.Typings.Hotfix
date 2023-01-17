@@ -1,0 +1,75 @@
+﻿@{
+    ViewBag.Title = "jQuery Demo";
+}
+
+<div class="row">
+    <div class="col-6 offset-3 mb-3">
+        <h3>Result: <span id="loading" style="display: inline"></span></h3>  <br />
+        <div class="card">
+            <div class="card-body" id="result">
+                Results will be displayed here
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Simple</h2>
+        <p>
+            Invoking of simple method returning random integer value
+        </p>
+        <p class="text-center">
+            <button class="btn btn-primary" id="btnSimpleInt">Do that!</button>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Parametrized</h2>
+        <p>
+            Simple method that is called with random parameters and returns them concatenated. <br />
+
+        </p>
+        <p class="text-center">
+            <button class="btn btn-primary" id="btnMethodWithParameters">Go!</button>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Returning objects</h2>
+        <p>
+            Method that returns complex JSONed object. <br />
+
+        </p>
+        <p class="text-center">
+            <button class="btn btn-primary" id="btnReturningObject">Invoke!</button>
+        </p>
+    </div>
+</div><div class="row">
+    <div class="col-md-4">
+        <h2>Parametrized objects</h2>
+        <p>
+            Returns JSONed object, invoked with parameters. Done simple.
+        </p>
+        <p class="text-center">
+            <button class="btn btn-primary" id="btnReturningObjectWithParameters">Click!</button>
+        </p>
+    </div>
+
+    <div class="col-md-4">
+        <h2>Void</h2>
+        <p>
+            Invoke void method that does not return anything
+        </p>
+        <p class="text-center">
+            <button class="btn btn-primary" id="btnVoidMethodWithParameters">Boom!</button>
+        </p>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript" src="/Scripts/ReinforcedTypings/IndexPage.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var a = new Reinforced.Typings.Samples.Difficult.CodeGenerators.Pages.IndexPage();
+        })
+    </script>
+}

@@ -1,0 +1,11 @@
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\bin\Release\net6.0\Reinforced.Typings.deps.json
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\bin\Release\net6.0\Reinforced.Typings.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\Reinforced.Typings.NETCore.csproj.AssemblyReference.cache
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\Reinforced.Typings.NETCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\Reinforced.Typings.NETCore.AssemblyInfoInputs.cache
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\Reinforced.Typings.NETCore.AssemblyInfo.cs
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\Reinforced.Typings.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\Reinforced.Typings.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\refint\Reinforced.Typings.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\obj\Release\net6.0\ref\Reinforced.Typings.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\Reinforced.Typings\bin\Release\net6.0\Reinforced.Typings.xml

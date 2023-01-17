@@ -1,0 +1,3 @@
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\lib\net7.0\Reinforced.Typings.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\lib\net7.0\Reinforced.Typings.deps.json
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\lib\net7.0\Reinforced.Typings.xml

@@ -1,0 +1,2 @@
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\build\netstandard2.0\Reinforced.Typings.Integrate.dll
+C:\Users\lvanzweden\Documents\Development\Reinforced.Typings\package\build\netstandard2.0\Reinforced.Typings.Integrate.deps.json

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<!-- Documentation fold -->
+	
+	<PropertyGroup>
+		<!-- Not used in demo since we have enabled RtDivideTypesAmongFiles -->
+		<RtTargetFile></RtTargetFile>
+		
+		<!-- Here we specify our fluent method -->
+		<RtConfigurationMethod>
+      Reinforced.Typings.Samples.Difficult.CodeGenerators.ReinforcedTypings.Configuration.Configure
+    </RtConfigurationMethod>
+		
+		<!-- We have changed this option from 'false' to 'true' -->
+		<RtDivideTypesAmongFiles>true</RtDivideTypesAmongFiles>
+		
+		<!-- Here we specify target directory to put generated files -->
+		<RtTargetDirectory>$(ProjectDir)Scripts\ReinforcedTypings\Generated</RtTargetDirectory>
+		
+		<!-- Not used in demo -->
+		<RtBypassTypeScriptCompilation>false</RtBypassTypeScriptCompilation>				
+		
+		<!-- Not used in demo-->
+		<RtDisable>false</RtDisable>		
+	</PropertyGroup>
+</Project>
